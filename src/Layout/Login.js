@@ -9,7 +9,6 @@ const Login=()=>{
     label="User Name"  
     type="email"
     name="UserName"
-    
     margin="normal"
     variant="outlined"/>
 
@@ -18,7 +17,6 @@ const Login=()=>{
     label="Password"  
     type="email"
     name="Password"
-    
     margin="normal"
     variant="outlined"/>
 
